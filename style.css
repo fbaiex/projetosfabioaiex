@@ -1,0 +1,48 @@
+#s1 a {
+    color: green;
+}
+
+h1 {
+    color: brown;
+}
+
+.car {
+    color: rgb(243, 3, 3);
+}
+
+#form {
+    background-image: url("/imagens/logo.png");
+    background-repeat: no-repeat
+
+} 
+
+.corform {
+    color: rgb(255, 0, 221);
+
+}
+
+body {
+    background-color: rgb(211, 203, 203);
+
+}
+
+.icons {
+    padding-left: 1200px;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+span {
+    color:blue
+
+}
+
+.img {
+
+    border: 5px solid black;
+    
+}
